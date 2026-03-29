@@ -22,7 +22,7 @@ import { BookingModule } from './booking/booking.module';
     AuthModule,
     CustomerModule,
     VehicleModule,
-    BookingModule,
+    BookingModule
   ],
 })
 export class AppModule { }

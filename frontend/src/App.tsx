@@ -36,7 +36,7 @@ function App() {
           />
           <Route
             path="/vehicles"
-            element={
+            element={ 
               <PrivateRoute>
                 <Vehicles />
               </PrivateRoute>
